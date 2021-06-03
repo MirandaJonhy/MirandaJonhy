@@ -2,9 +2,8 @@
 
 ## Eu sou o Miranda
 - 🚀 Um novato em NodeJS e Python
-- 🌱 Estudando `discord.js` por 10 meses
+- 🌱 Estudando `discord.js` por um bom tempo (+- 10 meses)
 - ⚡ Sempre fazendo engenhenhoca
-- 🔥 README.md feito por [Real-Adrian](https://github.com/Real-Adrian)
 
 
 ### Contatos:
