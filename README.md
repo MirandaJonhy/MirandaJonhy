@@ -2,7 +2,7 @@
 
 ## Eu sou o Miranda
 - 🚀 Um novato em NodeJS e Python
-- 🌱 Estudando `discord.js` por um bom tempo (+- 10 meses)
+- 🌱 ~~Estudando `discord.js` por um bom tempo (+- 10 meses)~~ | Agora estudando API's em Python e Node
 - ⚡ Sempre fazendo engenhenhoca
 
 
