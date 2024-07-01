@@ -34,4 +34,3 @@
     
 [github]: https://github.com/MirandaJonhy
 [Instagram]: https://www.instagram.com/miranda_jonhy/
-[discord]: https://discord.gg/cXuEqcnBJn
